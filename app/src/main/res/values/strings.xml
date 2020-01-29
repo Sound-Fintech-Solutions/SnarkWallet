@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Snark Wallet</string>
+    <string name="loading">Loading</string>
+    <string name="fee">sat/byte</string>
+    <string-array name="address_type">
+        <item>Legacy</item>
+        <item>Bech32</item>
+    </string-array>
+    <string name="sent">Sent</string>
+    <string name="received">Received</string>
+    <string name="confirmations">Confirmations</string>
+</resources>
